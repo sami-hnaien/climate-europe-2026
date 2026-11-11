@@ -1,0 +1,25 @@
+# Data (too large for GitHub: see README for download instructions)
+data/raw/**
+!data/raw/**/.gitkeep
+data/interim/**
+!data/interim/.gitkeep
+*.nc
+*.gpkg
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*
+
+# Power BI temporary files
+*.pbix.tmp

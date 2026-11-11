@@ -1,0 +1,4 @@
+cluster,n_regions,tg_anomaly_2026,heatwave_days_2026,tropical_nights_change_2026,spei3_aug_2026,tg_trend_decade,latitude,summer_rr_anomaly,max_consecutive_dry_days,tropical_nights,cluster_name
+1,133,2.73806,29.8647,3.2188,-2.14206,0.563923,46.8761,-37.7436,20.8045,3.81955,1 Western-central Europe: record heat and drought
+2,22,2.54882,35.1364,26.5848,-2.46189,0.587798,41.1792,-46.743,41.4091,41.3636,"2 Mediterranean: hot nights, long dry spells"
+3,125,0.894246,10.256,2.83147,-0.684931,0.596832,48.1481,-11.4311,25.08,7.744,"3 North, east, Turkey, Atlantic fringe: moderate 2026"

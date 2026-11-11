@@ -1,0 +1,27 @@
+name: climat-europe
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - xarray
+  - netcdf4
+  - dask
+  - geopandas
+  - pyogrio
+  - regionmask
+  - pandas
+  - numpy
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - pyarrow
+  - pyyaml
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - pymannkendall
+      - -e .

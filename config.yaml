@@ -1,0 +1,88 @@
+# Central configuration of the project.
+# Paths are relative to the project root (the folder that contains this file).
+
+paths:
+  nuts_dir: data/raw/nuts
+  eobs_history_dir: data/raw/eobs/history
+  eobs_2026_dir: data/raw/eobs/2026
+  interim_dir: data/interim
+  processed_dir: data/processed
+
+# ---------------------------------------------------------------- NUTS regions
+nuts:
+  file: NUTS_RG_01M_2024_4326.gpkg
+  level: 2                      # NUTS 2 regions
+  level_column: LEVL_CODE       # column holding the NUTS level in GISCO files
+  id_column: NUTS_ID
+  country_column: CNTR_CODE
+  name_column: NAME_LATN       # region name in Latin script
+  # NUTS 2 outermost regions: not covered by E-OBS, removed from the analysis.
+  exclude_regions:
+    - FRY1   # Guadeloupe
+    - FRY2   # Martinique
+    - FRY3   # French Guiana
+    - FRY4   # La Reunion
+    - FRY5   # Mayotte
+    - PT20   # Azores
+    - PT30   # Madeira
+    - ES70   # Canary Islands
+  # "Extended Europe" scope. NUTS uses EL for Greece. Checked against the file:
+  # NUTS 2024 has no UK regions (post-Brexit), so UK is absent; BA (Bosnia and
+  # Herzegovina) and XK (Kosovo) are in the file and added to avoid holes in the
+  # Balkans. Regions without valid E-OBS cells are dropped later by the aggregator.
+  countries: [AT, BE, BG, HR, CY, CZ, DK, EE, FI, FR, DE, EL, HU, IE, IT, LV, LT,
+              LU, MT, NL, PL, PT, RO, SK, SI, ES, SE,
+              NO, CH, IS, LI, AL, BA, ME, MK, RS, XK, TR]
+
+# ---------------------------------------------------------------------- E-OBS
+eobs:
+  resolution: 0.25deg
+  product: ensemble_mean
+  variables: [tg, tn, tx, rr]   # mean, min, max temperature, precipitation
+  # File name patterns ({var} is replaced by the variable code).
+  history_pattern: "{var}_ens_mean_0.25deg_reg_*_v*.nc"
+  monthly_pattern: "{var}_0.25deg_day_2026_*_grid_ensmean.nc"
+  # Names inside the NetCDF files (checked on v33.0e and on the 2026 monthly files).
+  coordinate_names: {latitude: lat, longitude: lon}
+  expected_units: {tg: Celsius, tn: Celsius, tx: Celsius, rr: mm}
+  netcdf_variable_names:
+    tg: tg
+    tn: tn
+    tx: tx
+    rr: rr
+
+# --------------------------------------------------------------- Aggregation
+aggregation:
+  # Regions with less valid overlap (in cell equivalents) are dropped. Malta, Ceuta and
+  # Melilla have no E-OBS data; tiny regions (Brussels, Liechtenstein) keep the cells they overlap.
+  min_cells: 0.1
+  min_summer_coverage: 0.9      # share of valid summer days needed to compute a region's indicators
+
+# ------------------------------------------------------------------ Analysis
+analysis:
+  start_year: 1980
+  end_year: 2026
+  reference_period: [1991, 2020]
+  summer_months: [6, 7, 8]
+  thresholds:
+    hot_day_tx: 35.0            # absolute threshold on daily max temperature (deg C)
+    hot_day_tx_moderate: 30.0
+    tropical_night_tn: 20.0     # daily min temperature (deg C)
+    hot_day_percentile: 90      # relative threshold (percentile of the reference period)
+    heatwave_min_days: 3        # consecutive days with tx above the local p90 needed to count a heatwave
+    dry_day_mm: 1.0             # below this precipitation a day is "dry"
+    min_reference_rr_mm: 10.0   # no % precipitation anomaly where the 1991-2020 summer mean is lower
+  drought:
+    scale_months: 3             # SPEI-3: water balance accumulated over 3 months
+    summer_month: 8             # SPEI-3 of August summarises June-August
+  trend_period: [1980, 2025]    # trends exclude 2026, which is then compared with the trend
+  latitude_bands: [30, 45, 55, 72]   # band edges (deg N) for the north/south comparison
+  clustering:
+    random_state: 42
+    k_range: [2, 10]
+    k: 3                        # best silhouette and K-Means/Ward agreement (notebook section 3.2)
+
+# -------------------------------------------------------------------- Export
+export:
+  map_simplify_deg: 0.01        # Douglas-Peucker tolerance for the Power BI map geometry
+

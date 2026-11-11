@@ -1,0 +1,282 @@
+region_id,name,country,latitude,longitude,area_km2,cluster,cluster_name,tg_trend_decade,tg_trend_p,tg_trend_significant,tg_zscore_2026,tg_rank_2026,tg_record_2026,tg_departure_from_trend_2026
+AT11,Burgenland,AT,47.542,16.5199,3965.38,1,1 Western-central Europe: record heat and drought,0.676865,2.884e-08,True,2.56814,1,True,1.59462
+AT33,Tirol,AT,47.1963,11.5018,12651.1,1,1 Western-central Europe: record heat and drought,0.676278,6.12e-09,True,2.76574,1,True,1.66627
+AT34,Vorarlberg,AT,47.2413,9.89413,2619.02,1,1 Western-central Europe: record heat and drought,0.580924,1.4073e-07,True,3.11702,1,True,2.43023
+BE22,Prov. Limburg (BE),BE,50.9911,5.42923,2426.57,1,1 Western-central Europe: record heat and drought,0.564524,3.82894e-06,True,2.49073,1,True,1.18757
+BG34,Yugoiztochen,BG,42.4737,26.5412,19800,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.844177,1.20846e-11,True,1.42692,7,False,-0.695513
+BE23,Prov. Oost-Vlaanderen,BE,51.0363,3.81612,3007.61,1,1 Western-central Europe: record heat and drought,0.529788,1.66047e-06,True,2.98739,1,True,1.77662
+BA01,Federacija Bosne i Hercegovine,BA,44.0983,17.5274,26079.7,1,1 Western-central Europe: record heat and drought,0.718645,9.29273e-08,True,2.74892,2,False,1.40542
+BE24,Prov. Vlaams-Brabant,BE,50.8729,4.59023,2119.55,1,1 Western-central Europe: record heat and drought,0.482505,2.90724e-06,True,2.94439,1,True,1.68818
+BG41,Yugozapaden,BG,42.3154,23.3429,20300.1,1,1 Western-central Europe: record heat and drought,0.620216,9.36644e-07,True,2.21861,4,False,0.488147
+BE25,Prov. West-Vlaanderen,BE,51.0113,3.05724,3170.67,1,1 Western-central Europe: record heat and drought,0.423538,8.58578e-06,True,3.39201,1,True,2.26841
+BE31,Prov. Brabant wallon,BE,50.6694,4.58357,1097.3,1,1 Western-central Europe: record heat and drought,0.531567,1.24905e-06,True,3.04845,1,True,1.79857
+BA02,Republika Srpska,BA,44.2229,18.0528,24638.6,1,1 Western-central Europe: record heat and drought,0.657825,1.14437e-07,True,2.52304,2,False,1.22022
+BE32,Prov. Hainaut,BE,50.4695,3.96129,3812.78,1,1 Western-central Europe: record heat and drought,0.731041,3.88092e-09,True,2.84296,1,True,1.66614
+BA03,Brčko District BiH,BA,44.8245,18.7334,492.694,1,1 Western-central Europe: record heat and drought,0.707157,1.86497e-08,True,2.48919,2,False,1.17971
+BE10,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,BE,50.8358,4.3709,161.775,1,1 Western-central Europe: record heat and drought,0.406712,0.000206022,True,2.83292,1,True,1.74902
+BE21,Prov. Antwerpen,BE,51.2292,4.7204,2871.82,1,1 Western-central Europe: record heat and drought,0.482171,1.02345e-05,True,2.86643,1,True,1.70539
+BE33,Prov. Liège,BE,50.5207,5.73737,3853.6,1,1 Western-central Europe: record heat and drought,0.532859,1.11683e-05,True,2.41275,2,False,1.1224
+BG42,Yuzhen tsentralen,BG,41.9416,25.0239,22369.7,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.691111,1.33995e-08,True,1.85895,5,False,-0.0616326
+BE34,Prov. Luxembourg (BE),BE,49.9609,5.51324,4461.89,1,1 Western-central Europe: record heat and drought,0.508869,1.2183e-05,True,2.56331,2,False,1.45304
+BE35,Prov. Namur,BE,50.2552,4.8521,3677.5,1,1 Western-central Europe: record heat and drought,0.537983,1.51065e-06,True,3.13316,1,True,1.89249
+AT12,Niederösterreich,AT,48.2715,15.7516,19196.5,1,1 Western-central Europe: record heat and drought,0.719289,7.66918e-09,True,2.55852,1,True,1.54813
+AT13,Wien,AT,48.2084,16.3775,414.06,1,1 Western-central Europe: record heat and drought,0.704976,1.67094e-08,True,2.6697,1,True,1.73155
+AT21,Kärnten,AT,46.7754,13.9183,9543.16,1,1 Western-central Europe: record heat and drought,0.687636,3.88092e-09,True,2.97904,1,True,1.68755
+BG31,Severozapaden,BG,43.4229,23.8632,19061.2,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.56396,5.21795e-07,True,1.707,5,False,0.345592
+AT22,Steiermark,AT,47.2695,15.0138,16413.7,1,1 Western-central Europe: record heat and drought,0.657947,1.67094e-08,True,2.60058,1,True,1.42085
+AL01,Veri,AL,41.9407,19.9666,10825.1,1,1 Western-central Europe: record heat and drought,0.812135,2.17895e-09,True,2.37598,3,False,0.730647
+BG32,Severen tsentralen,BG,43.468,26.0718,14818.3,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.489816,1.51065e-06,True,1.75534,5,False,0.517993
+AT31,Oberösterreich,AT,48.1366,13.9646,11984.4,1,1 Western-central Europe: record heat and drought,0.695357,6.12e-09,True,2.4662,1,True,1.51719
+AL02,Qender,AL,41.1244,20.0603,4965.65,1,1 Western-central Europe: record heat and drought,0.700019,1.86497e-08,True,2.32269,2,False,1.07292
+AT32,Salzburg,AT,47.3883,13.0842,7155.91,1,1 Western-central Europe: record heat and drought,0.707158,3.88092e-09,True,2.67188,1,True,1.50618
+AL03,Jug,AL,40.4615,20.1483,13004.9,1,1 Western-central Europe: record heat and drought,0.728201,4.93448e-08,True,1.37718,7,False,-0.119692
+BG33,Severoiztochen,BG,43.372,27.3306,14648,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.775806,5.46985e-12,True,1.11976,7,False,-1.09534
+EL63,Dytiki Elláda,EL,38.2818,21.5751,11316.2,1,1 Western-central Europe: record heat and drought,0.554246,1.82452e-06,True,1.42294,5,False,0.178741
+EL41,Voreio Aigaio,EL,38.787,26.1154,3849.7,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.78757,9.29168e-12,True,1.17587,8,False,-1.42492
+DED4,Chemnitz,DE,50.7168,12.7905,6525.36,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.60828,5.75734e-07,True,1.78033,4,False,0.688247
+DED5,Leipzig,DE,51.3587,12.6741,3977.84,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.554507,7.8598e-06,True,1.49187,5,False,0.434724
+EL42,Notio Aigaio,EL,36.7445,26.335,5296.03,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.239618,0.00506968,True,1.04434,10,False,-0.101386
+EL43,Kriti,EL,35.2318,24.8476,8350.56,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.199494,0.0117846,True,1.68152,5,False,1.33402
+EL64,Sterea Elláda,EL,38.6584,22.8336,15564.4,1,1 Western-central Europe: record heat and drought,0.321164,0.000428058,True,1.67955,5,False,1.06615
+DEE0,Sachsen-Anhalt,DE,52.0092,11.7027,20555,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.55539,6.58001e-06,True,1.48736,5,False,0.358776
+EL51,"Anatoliki Makedonia, Thraki",EL,41.1649,25.1383,14190.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.756253,9.40514e-11,True,1.31972,8,False,-1.02099
+DEF0,Schleswig-Holstein,DE,54.1825,9.82233,15617.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.426836,0.000257476,True,1.05854,7,False,0.117138
+EL65,Peloponnisos,EL,37.3421,22.4575,15510.3,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.48288,1.66047e-06,True,1.14288,7,False,0.150446
+DEA3,Münster,DE,51.9503,7.41566,6918.4,1,1 Western-central Europe: record heat and drought,0.481666,5.95729e-05,True,1.98434,2,False,0.72488
+EL52,Kentriki Makedonia,EL,40.7423,22.9573,18842.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.438143,1.57823e-05,True,1.57155,5,False,0.493242
+DK04,Midtjylland,DK,56.2488,9.39446,13175.4,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.158014,0.0883312,False,0.538376,8,False,0.40788
+DEA4,Detmold,DE,51.9386,8.78508,6524.96,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.494674,4.30924e-05,True,1.75265,4,False,0.618088
+DEG0,Thüringen,DE,50.9034,11.0265,16201,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.565495,1.13517e-06,True,2.01425,3,False,1.05314
+EL53,Dytiki Makedonia,EL,40.3611,21.4844,9461.85,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.535775,0.000344962,True,0.855865,12,False,-0.17768
+DEA5,Arnsberg,DE,51.3156,8.00621,8014.71,1,1 Western-central Europe: record heat and drought,0.526793,1.87226e-05,True,2.13034,2,False,0.949509
+DK01,Hovedstaden,DK,55.6921,12.9079,2577.27,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.208642,0.0608348,False,0.421292,14,False,0.013015
+DK05,Nordjylland,DK,57.0528,9.67155,7946.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.15674,0.129797,False,0.51518,10,False,0.282916
+EL54,Ipeiros,EL,39.5995,20.7841,9149.35,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.571318,3.18784e-06,True,1.02257,9,False,-0.185262
+DEB1,Koblenz,DE,50.2505,7.50493,8073.09,1,1 Western-central Europe: record heat and drought,0.583845,2.65042e-06,True,2.96713,1,True,1.86879
+DEB2,Trier,DE,49.9732,6.6749,4928.46,1,1 Western-central Europe: record heat and drought,0.551568,8.58578e-06,True,3.06929,1,True,1.992
+DK02,Sjælland,DK,55.2794,11.7027,7328.7,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.252888,0.0208755,True,0.573593,10,False,0.0662289
+EL61,Thessalia,EL,39.5337,22.2174,14051.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.244901,0.0179311,True,1.04708,10,False,0.797802
+DEB3,Rheinhessen-Pfalz,DE,49.4634,7.944,6850.66,1,1 Western-central Europe: record heat and drought,0.663243,3.50835e-07,True,3.14127,1,True,2.0123
+EE00,Eesti,EE,58.6718,25.5463,45341.4,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.429927,0.000398479,True,0.368723,16,False,-0.572095
+DEC0,Saarland,DE,49.3844,6.95344,2572.31,1,1 Western-central Europe: record heat and drought,0.60617,3.49432e-06,True,3.22988,1,True,2.28816
+EL62,Ionia Nisia,EL,38.6158,20.4374,2295.38,2,"2 Mediterranean: hot nights, long dry spells",0.801669,5.9341e-10,True,1.42136,7,False,-0.801621
+DED2,Dresden,DE,51.1711,14.1385,7946.06,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.575598,3.49432e-06,True,1.38567,7,False,0.228548
+DK03,Syddanmark,DK,55.3568,9.45036,12168.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.307649,0.00354334,True,0.715599,7,False,0.162303
+EL30,Attiki,EL,37.8374,23.598,3817.11,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.264879,0.00137315,True,1.07487,10,False,0.349458
+DE92,Hannover,DE,52.3948,9.35393,9064.24,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.495422,4.67504e-05,True,1.52127,5,False,0.482144
+DE24,Oberfranken,DE,50.0508,11.3751,7231.2,1,1 Western-central Europe: record heat and drought,0.594081,7.00188e-07,True,2.11588,2,False,1.12187
+CZ02,Střední Čechy,CZ,50.0004,14.5527,10931.4,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.648822,1.91419e-07,True,1.91698,3,False,0.850712
+DE27,Schwaben,DE,48.1591,10.5166,10031,1,1 Western-central Europe: record heat and drought,0.515559,3.8764e-07,True,3.02041,1,True,2.24873
+DE30,Berlin,DE,52.5015,13.4019,893.095,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.553899,3.36786e-05,True,0.873651,8,False,-0.211251
+DE93,Lüneburg,DE,53.1798,9.78318,15477.2,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.473903,0.000152317,True,1.16998,6,False,0.0782548
+DE25,Mittelfranken,DE,49.3479,10.7861,7246.18,1,1 Western-central Europe: record heat and drought,0.570991,2.41545e-06,True,2.70273,2,False,1.76087
+CZ03,Jihozápad,CZ,49.3124,13.9153,17709.3,1,1 Western-central Europe: record heat and drought,0.619879,1.14437e-07,True,2.25885,1,True,1.40803
+DEA2,Köln,DE,50.8251,6.80836,7366.17,1,1 Western-central Europe: record heat and drought,0.510858,1.2183e-05,True,2.60404,1,True,1.56405
+DE26,Unterfranken,DE,50.0111,9.94643,8529.42,1,1 Western-central Europe: record heat and drought,0.591898,8.50364e-07,True,2.72262,2,False,1.70755
+CZ04,Severozápad,CZ,50.3952,13.4243,8650.08,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.567231,6.35029e-07,True,1.87107,4,False,0.746899
+DE40,Brandenburg,DE,52.4688,13.4042,29651.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.549708,7.8598e-06,True,1.09607,6,False,-0.005827
+DE50,Bremen,DE,53.1987,8.74462,402.732,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.49173,6.99006e-05,True,1.29756,4,False,0.199801
+DE60,Hamburg,DE,53.5473,10.0159,743.369,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.416931,0.000428058,True,1.14619,6,False,0.193329
+DE94,Weser-Ems,DE,52.9395,7.774,14992.6,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.427945,0.000191137,True,1.4832,4,False,0.427959
+DEA1,Düsseldorf,DE,51.4298,6.59703,5292.12,1,1 Western-central Europe: record heat and drought,0.437818,0.000344962,True,2.24664,1,True,1.16537
+CH01,Région lémanique,CH,46.3439,7.2097,8717.72,1,1 Western-central Europe: record heat and drought,0.52404,3.8764e-07,True,3.36268,1,True,2.72702
+DE13,Freiburg,DE,48.0264,8.2235,9400.15,1,1 Western-central Europe: record heat and drought,0.615216,8.36959e-08,True,3.63198,1,True,2.98516
+CZ05,Severovýchod,CZ,50.2912,15.7668,12439.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.645721,2.87078e-07,True,1.5881,5,False,0.347149
+DE71,Darmstadt,DE,50.0583,8.75771,7443.87,1,1 Western-central Europe: record heat and drought,0.5723,7.19273e-06,True,2.92306,1,True,1.79999
+DE72,Gießen,DE,50.6476,8.74579,5381.63,1,1 Western-central Europe: record heat and drought,0.548383,8.58578e-06,True,2.6349,1,True,1.53133
+CH02,Espace Mittelland,CH,46.901,7.42846,10061.1,1,1 Western-central Europe: record heat and drought,0.550206,2.34582e-07,True,3.69355,1,True,2.99115
+DE14,Tübingen,DE,48.1311,9.50069,9135.86,1,1 Western-central Europe: record heat and drought,0.545741,1.55981e-07,True,3.37624,1,True,2.62903
+CH03,Nordwestschweiz,CH,47.4239,8.02696,1957.65,1,1 Western-central Europe: record heat and drought,0.632847,3.57888e-08,True,3.73958,1,True,3.03412
+CZ06,Jihovýchod,CZ,49.2429,16.1686,13982.2,1,1 Western-central Europe: record heat and drought,0.729982,2.58756e-08,True,2.20132,1,True,1.07429
+DE73,Kassel,DE,51.0525,9.45571,8290.56,1,1 Western-central Europe: record heat and drought,0.554146,1.24905e-06,True,2.19741,3,False,1.12516
+CH04,Zürich,CH,47.4129,8.6552,1728.76,1,1 Western-central Europe: record heat and drought,0.576556,2.11941e-07,True,3.49207,1,True,2.87316
+DE21,Oberbayern,DE,48.1,11.7553,17532,1,1 Western-central Europe: record heat and drought,0.596808,6.10211e-08,True,2.74041,2,False,1.88688
+CZ07,Střední Morava,CZ,49.5377,17.4314,9233.47,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.715688,2.884e-08,True,1.75996,3,False,0.515103
+CH05,Ostschweiz,CH,46.9084,9.45258,11526.5,1,1 Western-central Europe: record heat and drought,0.595389,6.78224e-08,True,3.22307,1,True,2.27139
+CZ08,Moravskoslezsko,CZ,49.8205,17.9818,5429.67,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.691788,3.98471e-08,True,1.4756,5,False,0.214681
+DE80,Mecklenburg-Vorpommern,DE,53.7545,12.5319,23086.3,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.504061,1.32855e-05,True,0.997355,8,False,-0.153559
+DE22,Niederbayern,DE,48.7071,12.7864,10325.4,1,1 Western-central Europe: record heat and drought,0.639955,4.93448e-08,True,2.49127,2,False,1.60136
+CH06,Zentralschweiz,CH,46.9684,8.42125,4483.53,1,1 Western-central Europe: record heat and drought,0.589959,1.4073e-07,True,3.77041,1,True,2.94927
+CH07,Ticino,CH,46.2957,8.80887,2811.99,1,1 Western-central Europe: record heat and drought,0.713003,9.56973e-10,True,3.05313,1,True,2.10349
+DE11,Stuttgart,DE,49.0153,9.62523,10554.2,1,1 Western-central Europe: record heat and drought,0.618533,4.28157e-07,True,3.16814,1,True,2.16439
+DE91,Braunschweig,DE,52.0364,10.3428,8121.77,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.480834,4.30924e-05,True,1.52696,5,False,0.560684
+DE23,Oberpfalz,DE,49.3985,12.1171,9687.97,1,1 Western-central Europe: record heat and drought,0.655557,8.36959e-08,True,2.40484,2,False,1.54116
+CY00,Kýpros,CY,35.051,33.2241,9258.64,2,"2 Mediterranean: hot nights, long dry spells",0.772606,9.40514e-11,True,1.67709,6,False,-0.0851739
+CZ01,Praha,CZ,50.0668,14.4663,496.611,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.689085,1.55981e-07,True,1.96471,3,False,0.905452
+DE12,Karlsruhe,DE,49.0203,8.67799,6920.52,1,1 Western-central Europe: record heat and drought,0.634879,4.28157e-07,True,3.2046,1,True,2.17244
+FRB0,Centre — Val de Loire,FR,47.4808,1.68569,39531.8,1,1 Western-central Europe: record heat and drought,0.535236,1.71926e-05,True,4.52348,1,True,3.71893
+FRF1,Alsace,FR,48.3263,7.43269,8330.55,1,1 Western-central Europe: record heat and drought,0.574811,5.75734e-07,True,3.40236,1,True,2.71135
+FRE1,Nord-Pas de Calais,FR,50.4728,2.72002,12439.4,1,1 Western-central Europe: record heat and drought,0.473755,2.00408e-06,True,3.43565,1,True,2.31841
+FRI1,Aquitaine,FR,44.348,-0.23554,41724.2,1,1 Western-central Europe: record heat and drought,0.41534,8.19068e-05,True,4.50077,1,True,3.44233
+FRF2,Champagne-Ardenne,FR,48.7307,4.54447,25726.1,1,1 Western-central Europe: record heat and drought,0.545322,3.18784e-06,True,3.73386,1,True,2.98842
+FRE2,Picardie,FR,49.6426,2.81038,19493.4,1,1 Western-central Europe: record heat and drought,0.527693,1.03132e-06,True,3.64943,1,True,2.53817
+FRI2,Limousin,FR,45.7726,1.7148,17055.7,1,1 Western-central Europe: record heat and drought,0.506745,1.57823e-05,True,4.38546,1,True,3.79277
+FRF3,Lorraine,FR,48.7606,6.14483,23669.8,1,1 Western-central Europe: record heat and drought,0.561722,2.90724e-06,True,3.48556,1,True,2.7241
+FRC1,Bourgogne,FR,47.2452,4.15372,31753.1,1,1 Western-central Europe: record heat and drought,0.514313,2.62402e-05,True,4.00075,1,True,3.46424
+FRG0,Pays de la Loire,FR,47.4753,-0.822208,32338.7,1,1 Western-central Europe: record heat and drought,0.37791,0.000699951,True,4.68291,1,True,3.63827
+FRC2,Franche-Comté,FR,47.2052,6.0851,16305.6,1,1 Western-central Europe: record heat and drought,0.486017,3.6575e-05,True,3.62888,1,True,3.14481
+FR10,Ile-de-France,FR,48.7092,2.5049,12069.6,1,1 Western-central Europe: record heat and drought,0.519179,4.59262e-06,True,4.14739,1,True,3.17078
+FRD1,Basse-Normandie ,FR,48.9296,-0.516874,17748.4,1,1 Western-central Europe: record heat and drought,0.388901,3.6575e-05,True,4.54631,1,True,3.26267
+FRH0,Bretagne,FR,48.1808,-2.8384,27415.9,1,1 Western-central Europe: record heat and drought,0.312801,0.000699951,True,4.85251,1,True,3.62505
+FRI3,Poitou-Charentes,FR,46.1605,-0.0816374,25928.4,1,1 Western-central Europe: record heat and drought,0.456019,8.19068e-05,True,4.81598,1,True,3.73333
+FRD2,Haute-Normandie ,FR,49.3903,1.01295,12326.2,1,1 Western-central Europe: record heat and drought,0.449121,8.58578e-06,True,3.9861,1,True,2.81588
+ES52,Comunitat Valenciana ,ES,39.3954,-0.557484,23264,2,"2 Mediterranean: hot nights, long dry spells",0.463856,2.65042e-06,True,3.10563,1,True,1.98298
+ES24,Aragón,ES,41.514,-0.664389,47718.5,1,1 Western-central Europe: record heat and drought,0.429346,0.000103625,True,3.69,1,True,2.90616
+FI19,Länsi-Suomi,FI,62.3227,23.6919,64691.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.429858,0.00137315,True,0.351652,17,False,-0.501859
+FI1B,Helsinki-Uusimaa,FI,60.3628,24.7535,9521.27,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.430321,0.000699951,True,0.261278,19,False,-0.639492
+FI1C,Etelä-Suomi,FI,60.9146,25.2077,35197.2,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.422592,0.000803095,True,0.358867,18,False,-0.583284
+FI1D,Pohjois- ja Itä-Suomi,FI,65.4546,27.1755,227101,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.461531,0.000206022,True,0.446659,17,False,-0.673086
+FI20,Åland,FI,60.2178,20.1536,1462.08,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.496739,1.02345e-05,True,0.675773,13,False,-0.406859
+ES30,Comunidad de Madrid,ES,40.4945,-3.71659,8030.4,2,"2 Mediterranean: hot nights, long dry spells",0.510788,3.36786e-05,True,2.61655,1,True,1.41411
+ES11,Galicia,ES,42.7549,-7.90938,29572.8,1,1 Western-central Europe: record heat and drought,0.259299,0.00506968,True,3.48165,1,True,2.18683
+ES41,Castilla y León,ES,41.7535,-4.78366,94220.3,1,1 Western-central Europe: record heat and drought,0.29657,0.00477983,True,3.20292,1,True,2.17052
+ES53,Illes Balears,ES,39.5756,2.9073,4991.83,2,"2 Mediterranean: hot nights, long dry spells",0.56128,3.17415e-07,True,3.95358,1,True,2.46684
+ES12,Principado de Asturias,ES,43.294,-5.99333,10603.9,1,1 Western-central Europe: record heat and drought,0.244214,0.00120325,True,4.79004,1,True,3.42258
+ES13,Cantabria,ES,43.1978,-4.02999,5323.47,1,1 Western-central Europe: record heat and drought,0.184521,0.023065,True,3.73142,1,True,2.76624
+ES61,Andalucía,ES,37.4703,-4.57683,87612.3,2,"2 Mediterranean: hot nights, long dry spells",0.638291,3.57888e-08,True,2.2529,2,False,1.10379
+ES62,Región de Murcia,ES,38.0016,-1.48549,11316.1,2,"2 Mediterranean: hot nights, long dry spells",0.467129,7.8598e-06,True,2.65541,1,True,1.6177
+ES42,Castilla-La Mancha,ES,39.5789,-3.00546,79454.2,1,1 Western-central Europe: record heat and drought,0.532522,7.19273e-06,True,2.59943,1,True,1.45884
+ES21,País Vasco,ES,43.0431,-2.61653,7230.69,1,1 Western-central Europe: record heat and drought,0.345111,0.000239117,True,4.50069,1,True,3.63185
+ES43,Extremadura,ES,39.1885,-6.15067,41631.5,1,1 Western-central Europe: record heat and drought,0.418897,0.000298228,True,1.98519,3,False,0.957918
+ES22,Comunidad Foral de Navarra,ES,42.6662,-1.64617,10390.7,1,1 Western-central Europe: record heat and drought,0.349929,0.000803095,True,4.01659,1,True,3.242
+ES23,La Rioja,ES,42.2751,-2.51607,5046.83,1,1 Western-central Europe: record heat and drought,0.24852,0.0355594,True,3.86756,1,True,3.12965
+ES51,Cataluña,ES,41.7979,1.52461,32112.6,1,1 Western-central Europe: record heat and drought,0.469193,3.10009e-05,True,3.80845,1,True,2.82561
+ITI3,Marche,IT,43.3445,13.1447,9329.55,2,"2 Mediterranean: hot nights, long dry spells",0.498534,4.67504e-05,True,2.2905,2,False,1.5357
+ITC4,Lombardia,IT,45.6193,9.76898,23879.6,2,"2 Mediterranean: hot nights, long dry spells",0.631336,4.87693e-09,True,3.08162,1,True,2.39756
+ITF1,Abruzzo,IT,42.2272,13.8556,10799.6,1,1 Western-central Europe: record heat and drought,0.89772,7.66918e-09,True,2.23247,1,True,0.565247
+LT02,Vidurio ir vakarų Lietuvos regionas ,LT,55.4238,23.672,55163.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.549035,1.44826e-05,True,0.294603,17,False,-0.909645
+LU00,Luxembourg,LU,49.7763,6.09275,2595.62,1,1 Western-central Europe: record heat and drought,0.507173,3.10009e-05,True,2.16692,2,False,1.03887
+ITI4,Lazio,IT,41.9794,12.7713,17213.7,2,"2 Mediterranean: hot nights, long dry spells",0.46602,7.19273e-06,True,2.90875,2,False,2.11942
+LI00,Liechtenstein,LI,47.1417,9.55297,160.089,1,1 Western-central Europe: record heat and drought,0.596185,7.53554e-08,True,3.31501,1,True,2.69789
+ITF2,Molise,IT,41.6845,14.5948,4442.95,2,"2 Mediterranean: hot nights, long dry spells",0.887974,2.17895e-09,True,2.25635,1,True,0.786551
+LV00,Latvija,LV,56.8622,24.9338,64592.3,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.464468,3.9707e-05,True,0.405596,16,False,-0.389919
+LT01,Sostinės regionas,LT,54.8212,25.2333,9733.74,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.577571,6.01741e-06,True,0.220349,18,False,-0.975482
+ITF3,Campania,IT,40.8589,14.8438,13603.2,2,"2 Mediterranean: hot nights, long dry spells",0.56525,2.20055e-06,True,2.81369,1,True,1.57143
+ME00,Crna Gora,ME,42.7861,19.2517,13877.5,1,1 Western-central Europe: record heat and drought,0.7158,2.0808e-08,True,2.12278,4,False,0.488097
+MK00,Severna Makedonija ,MK,41.6007,21.6992,25436.4,1,1 Western-central Europe: record heat and drought,0.585578,7.71765e-07,True,1.91738,5,False,0.50774
+ITF4,Puglia,IT,40.9854,16.634,19365.3,2,"2 Mediterranean: hot nights, long dry spells",0.648961,3.98471e-08,True,3.06705,2,False,1.51339
+NL11,Groningen,NL,53.2172,6.74299,2401.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.444593,5.95729e-05,True,1.69651,1,True,0.604078
+ITF5,Basilicata,IT,40.4991,16.0827,9989.31,2,"2 Mediterranean: hot nights, long dry spells",0.619641,3.50835e-07,True,3.00432,1,True,1.43736
+NL12,Friesland (NL),NL,53.0871,5.78989,4011.65,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.510365,1.66047e-06,True,2.09118,1,True,0.578198
+NL13,Drenthe,NL,52.8624,6.61855,2678,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.491339,9.37557e-06,True,1.79331,1,True,0.511402
+ITH3,Veneto,IT,45.6593,11.8351,17691.3,2,"2 Mediterranean: hot nights, long dry spells",0.519962,2.59551e-07,True,2.82966,2,False,2.08654
+IS00,Ísland,IS,64.9846,-18.5817,102701,,,0.214881,0.0397374,True,,,,
+ITF6,Calabria,IT,39.0643,16.3459,15087,2,"2 Mediterranean: hot nights, long dry spells",0.329299,0.00156495,True,2.54623,2,False,1.67096
+NL21,Overijssel,NL,52.4445,6.44291,3421.84,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.515646,5.50102e-06,True,1.98577,1,True,0.619149
+NL22,Gelderland,NL,52.0617,5.93884,5136.19,1,1 Western-central Europe: record heat and drought,0.496658,4.19415e-06,True,2.28047,1,True,1.12015
+ITH4,Friuli-Venezia Giulia,IT,46.1621,13.0496,7767.48,1,1 Western-central Europe: record heat and drought,0.572199,2.59551e-07,True,3.06373,1,True,1.94511
+ITC1,Piemonte,IT,45.0572,7.92022,25398.3,1,1 Western-central Europe: record heat and drought,0.588809,6.85214e-09,True,3.16981,1,True,2.28298
+ITG1,Sicilia,IT,37.5899,14.1484,25728,2,"2 Mediterranean: hot nights, long dry spells",0.181691,0.107488,False,2.85777,1,True,2.26664
+NL23,Flevoland,NL,52.5501,5.51453,2411.89,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.504751,1.24905e-06,True,2.33642,1,True,0.839412
+NL32,Noord-Holland,NL,52.6008,4.91864,3411.3,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.478948,2.90724e-06,True,2.59919,1,True,1.10899
+ITC2,Valle d’Aosta/Vallée d’Aoste,IT,45.7303,7.38756,3260.61,1,1 Western-central Europe: record heat and drought,0.631698,9.59709e-09,True,2.95326,2,False,2.0785
+NL34,Zeeland,NL,51.4627,3.84104,1931.55,1,1 Western-central Europe: record heat and drought,0.416481,2.03817e-05,True,3.03008,1,True,1.85889
+ITH5,Emilia-Romagna,IT,44.5262,11.0465,22510.4,2,"2 Mediterranean: hot nights, long dry spells",0.527903,9.36644e-07,True,2.83249,2,False,2.23228
+ITG2,Sardegna,IT,40.0834,9.02996,24112.4,2,"2 Mediterranean: hot nights, long dry spells",0.776232,6.69067e-10,True,3.46424,1,True,2.45095
+NL35,Utrecht,NL,52.0843,5.16395,1561.81,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.514617,4.59262e-06,True,2.45773,1,True,1.0012
+NL36,Zuid-Holland,NL,51.9375,4.46262,3136.52,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.505875,3.18784e-06,True,2.92421,1,True,1.32678
+ITC3,Liguria,IT,44.2662,8.70164,5418.22,1,1 Western-central Europe: record heat and drought,0.418207,4.67504e-05,True,2.93044,1,True,2.49735
+ITH1,Provincia Autonoma di Bolzano/Bozen,IT,46.6969,11.415,7397.93,1,1 Western-central Europe: record heat and drought,0.746001,1.72547e-09,True,2.46992,1,True,1.47081
+NL41,Noord-Brabant,NL,51.5617,5.18489,5084.52,1,1 Western-central Europe: record heat and drought,0.534754,5.02721e-06,True,2.56966,1,True,1.28048
+ITI1,Toscana,IT,43.4486,11.1291,22989.7,1,1 Western-central Europe: record heat and drought,0.12654,0.184992,False,1.97319,2,False,1.99945
+ITH2,Provincia Autonoma di Trento,IT,46.1348,11.1201,6206.93,1,1 Western-central Europe: record heat and drought,0.642466,1.07747e-09,True,2.92401,1,True,2.26736
+NL42,Limburg (NL),NL,51.2078,5.93321,2211.82,1,1 Western-central Europe: record heat and drought,0.485349,2.41291e-05,True,2.56327,1,True,1.54491
+ITI2,Umbria,IT,42.9652,12.4907,8454.79,1,1 Western-central Europe: record heat and drought,0.183314,0.0782255,False,2.4467,2,False,2.12405
+HU12,Pest,HU,47.4111,19.3591,6388.98,1,1 Western-central Europe: record heat and drought,0.513128,2.21801e-05,True,3.29799,1,True,2.29144
+HU23,Dél-Dunántúl,HU,46.3355,18.0397,14196,1,1 Western-central Europe: record heat and drought,0.529464,8.58578e-06,True,2.73644,2,False,1.84637
+IE06,Eastern and Midland,IE,53.3474,-7.00439,14463.1,1,1 Western-central Europe: record heat and drought,0.259648,0.00506968,True,2.52211,1,True,1.63767
+HU21,Közép-Dunántúl,HU,47.227,18.1315,11086.2,1,1 Western-central Europe: record heat and drought,0.548622,5.50102e-06,True,2.99271,1,True,2.07521
+FRK2,Rhône-Alpes,FR,45.4344,5.33772,44962.1,1,1 Western-central Europe: record heat and drought,0.633281,7.00188e-07,True,3.66782,1,True,2.95222
+HU31,Észak-Magyarország,HU,48.048,20.4845,13428.3,1,1 Western-central Europe: record heat and drought,0.648166,1.67094e-08,True,2.58996,2,False,1.14532
+HU22,Nyugat-Dunántúl,HU,47.1786,16.9932,11328.1,1,1 Western-central Europe: record heat and drought,0.602801,3.50835e-07,True,2.71524,1,True,1.74622
+HU32,Észak-Alföld,HU,47.5815,21.3355,17722.5,1,1 Western-central Europe: record heat and drought,0.707352,4.35128e-09,True,2.73686,2,False,1.16701
+FRL0,Provence-Alpes-Côte d’Azur,FR,43.9554,6.05347,31845.2,1,1 Western-central Europe: record heat and drought,0.697765,7.66918e-09,True,3.45055,1,True,2.49355
+HU33,Dél-Alföld,HU,46.5878,20.0769,18335.4,1,1 Western-central Europe: record heat and drought,0.666114,7.53554e-08,True,2.97787,2,False,1.62852
+FRJ1,Languedoc-Roussillon,FR,43.5893,3.21502,27766.5,1,1 Western-central Europe: record heat and drought,0.532263,1.37388e-06,True,3.84984,1,True,2.93996
+FRM0,Corse,FR,42.1499,9.10561,8729.71,2,"2 Mediterranean: hot nights, long dry spells",0.738181,9.56973e-10,True,3.65837,1,True,2.73753
+FRJ2,Midi-Pyrénées,FR,43.7667,1.47938,45604.1,1,1 Western-central Europe: record heat and drought,0.462897,6.45415e-05,True,4.15957,1,True,3.39275
+IE04,Northern and Western,IE,54.0074,-8.47919,25796.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.221414,0.0124336,True,1.76833,3,False,0.966359
+IE05,Southern,IE,52.3413,-8.43489,29686.6,1,1 Western-central Europe: record heat and drought,0.164036,0.0690817,False,2.32761,2,False,1.66825
+HR03,Jadranska Hrvatska,HR,44.31,15.6368,24630,1,1 Western-central Europe: record heat and drought,0.733624,7.66918e-09,True,2.99688,1,True,1.8324
+HR05,Grad Zagreb,HR,45.8098,15.9999,641.944,2,"2 Mediterranean: hot nights, long dry spells",0.788847,4.35128e-09,True,2.69836,1,True,1.4773
+HR06,Sjeverna Hrvatska,HR,46.0192,16.287,8030.43,1,1 Western-central Europe: record heat and drought,0.677399,3.98471e-08,True,2.53293,2,False,1.26466
+HU11,Budapest,HU,47.4838,19.1078,526.091,2,"2 Mediterranean: hot nights, long dry spells",0.536106,8.58578e-06,True,3.23773,1,True,2.389
+FRK1,Auvergne,FR,45.6517,3.17745,26170.4,1,1 Western-central Europe: record heat and drought,0.584332,3.49432e-06,True,3.95321,1,True,3.43823
+HR02,Panonska Hrvatska,HR,45.4357,17.2775,23204.7,1,1 Western-central Europe: record heat and drought,0.595213,6.35029e-07,True,2.45113,2,False,1.37457
+PL21,Małopolskie,PL,49.8584,20.2705,15184.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.713334,1.07747e-09,True,1.21409,6,False,-0.495497
+PL92,Mazowiecki regionalny,PL,52.3626,21.094,29454.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.650412,2.0808e-08,True,0.792617,12,False,-1.02514
+PL51,Dolnośląskie,PL,51.0886,16.4113,19947.6,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.662795,4.93448e-08,True,1.19427,7,False,-0.339908
+PL62,Warmińsko-mazurskie,PL,53.8551,20.8308,24012.6,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.614425,2.87078e-07,True,0.338937,15,False,-1.35729
+PT11,Norte,PT,41.4586,-7.67846,21286.4,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.34416,0.00137315,True,2.08299,3,False,1.00208
+PT15,Algarve,PT,37.246,-8.13392,4968.44,1,1 Western-central Europe: record heat and drought,0.694507,1.21272e-09,True,1.81415,4,False,0.421716
+PL52,Opolskie,PL,50.646,17.8987,9412.71,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.69284,1.19929e-08,True,1.24095,7,False,-0.26477
+PL63,Pomorskie,PL,54.1524,17.9763,18177,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.570921,1.24905e-06,True,0.373562,14,False,-1.17343
+PL61,Kujawsko-pomorskie,PL,53.0716,18.4898,17971.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.611667,5.75734e-07,True,0.604685,12,False,-0.941491
+PT19,Centro (PT),PT,40.2795,-7.84974,23222.3,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.29462,0.00716761,True,1.74273,4,False,0.81548
+PT1A,Grande Lisboa,PT,38.8627,-9.22241,1348.6,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.38884,6.45415e-05,True,1.50175,4,False,0.569518
+PL71,Łódzkie,PL,51.6036,19.4162,18220,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.704631,4.93448e-08,True,0.999695,8,False,-0.713915
+PT1B,Península de Setúbal,PT,38.6244,-8.88543,1499.88,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.377291,8.8617e-05,True,1.34772,6,False,0.399904
+PL72,Świętokrzyskie,PL,50.7633,20.7691,11709.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.671138,2.884e-08,True,1.08735,7,False,-0.53296
+PL22,Śląskie,PL,50.3282,18.9925,12334.7,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.682149,3.57888e-08,True,1.30811,5,False,-0.217303
+PL81,Lubelskie,PL,51.2168,22.9025,25123.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.676985,3.88092e-09,True,0.983234,9,False,-1.03086
+PL82,Podkarpackie,PL,49.9517,22.1696,17846.6,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.687356,1.36446e-09,True,1.61725,4,False,-0.152774
+PL41,Wielkopolskie,PL,52.3269,17.2498,29826.4,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.662029,8.50364e-07,True,0.65807,13,False,-0.899766
+PL84,Podlaskie,PL,53.2601,22.9292,20186.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.599352,4.28157e-07,True,0.569896,13,False,-0.956775
+PL91,Warszawski stołeczny,PL,52.238,21.1249,6102.85,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.653795,2.0808e-08,True,0.949732,11,False,-0.784862
+PL42,Zachodniopomorskie,PL,53.5789,15.5574,22451.6,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.541036,3.49432e-06,True,0.659821,11,False,-0.657401
+PL43,Lubuskie,PL,52.1929,15.3424,13988.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.645407,9.36644e-07,True,0.930668,8,False,-0.507023
+SK04,Východné Slovensko,SK,48.942,21.2433,15721.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.793637,7.31324e-11,True,1.90522,3,False,0.117945
+TR90,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",TR,40.7615,39.6253,35358.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.702153,4.93448e-08,True,0.103479,17,False,-1.6385
+TR72,"Kayseri, Sivas, Yozgat",TR,39.3094,36.3919,58906.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.481571,0.000103625,True,-0.669566,35,False,-1.6648
+TR81,"Zonguldak, Karabük, Bartın",TR,41.3092,32.3473,9802.13,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",1.06976,9.40137e-13,True,0.224438,18,False,-2.49653
+TR10,İstanbul,TR,41.1575,28.8093,5463.14,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.781114,1.05984e-11,True,0.415173,17,False,-2.35066
+TR82,"Kastamonu, Çankırı, Sinop",TR,41.2829,33.8829,26378.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",1.27383,2.63625e-11,True,0.0846178,20,False,-2.52331
+TRA1,"Erzurum, Erzincan, Bayburt",TR,39.9702,40.764,40365.7,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.700362,2.59551e-07,True,0.168265,18,False,-1.59221
+TR21,"Tekirdağ, Edirne, Kırklareli",TR,41.3413,27.1479,18793.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",1.1862,8.59313e-14,True,0.61606,14,False,-2.30837
+TR83,"Samsun, Tokat, Çorum, Amasya",TR,40.7031,35.6658,38002,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.931306,4.13141e-10,True,-0.124936,22,False,-2.32854
+TRA2,"Ağrı, Kars, Iğdır, Ardahan",TR,40.1598,43.1985,29992.6,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.854933,2.58756e-08,True,0.772373,12,False,-0.748128
+TRB1,"Malatya, Elazığ, Bingöl, Tunceli",TR,38.8078,39.2651,37411,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.655919,5.48828e-08,True,-0.40142,29,False,-2.26308
+TR22,"Balıkesir, Çanakkale",TR,39.8262,27.4268,24393.3,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.815498,1.7877e-11,True,0.724604,12,False,-1.97182
+TRB2,"Van, Muş, Bitlis, Hakkari",TR,38.4284,43.0947,44746.5,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",1.1601,5.00129e-11,True,0.411239,16,False,-1.57832
+TRC1,"Gaziantep, Adıyaman, Kilis",TR,37.4022,37.7833,15514.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.914694,2.99853e-11,True,0.206101,20,False,-2.55679
+TR42,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",TR,40.715,30.8959,19831.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.795633,1.06602e-10,True,0.0827366,20,False,-2.00044
+SI03,Vzhodna Slovenija,SI,46.1511,15.2552,12431.2,1,1 Western-central Europe: record heat and drought,0.750106,1.93934e-09,True,3.15037,1,True,1.70506
+TRC2,"Şanlıurfa, Diyarbakır",TR,37.6227,39.6351,34121.4,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",1.11156,1.86384e-12,True,0.0163974,22,False,-3.00594
+SI04,Zahodna Slovenija,SI,46.067,14.1248,7842.37,1,1 Western-central Europe: record heat and drought,0.726287,1.07747e-09,True,3.23618,1,True,1.90537
+TR31,İzmir,TR,38.4828,27.2941,11991.7,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.756863,1.75322e-10,True,0.779645,12,False,-1.38437
+TRC3,"Mardin, Batman, Şırnak, Siirt",TR,37.6084,41.6626,26050,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",1.59215,2.13496e-12,True,-0.046063,21,False,-3.78445
+TR51,Ankara,TR,39.7971,32.5825,25655.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.884498,1.98369e-10,True,0.014853,20,False,-2.18173
+TR52,"Konya, Karaman",TR,37.8732,32.7088,49480,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.911683,1.06602e-10,True,0.0475342,22,False,-2.3602
+SK01,Bratislavský kraj,SK,48.317,17.1793,2051.86,1,1 Western-central Europe: record heat and drought,0.72285,3.21327e-08,True,2.37935,1,True,1.3719
+TR61,"Antalya, Isparta, Burdur",TR,37.1946,30.753,36559.6,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.845206,4.40319e-11,True,1.14428,9,False,-0.796912
+SK02,Západné Slovensko,SK,48.4154,18.0673,14989.4,1,1 Western-central Europe: record heat and drought,0.682894,3.21327e-08,True,2.37784,2,False,1.11718
+TR32,"Aydın, Denizli, Muğla",TR,37.4623,28.6523,32506.7,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.630336,4.93448e-08,True,0.879436,11,False,-0.392123
+TR62,"Adana, Mersin",TR,37.0258,34.6393,29738.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.827279,2.53683e-10,True,-0.152905,22,False,-2.51831
+SK03,Stredné Slovensko,SK,48.793,19.368,16259.7,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.777248,4.66305e-10,True,1.73494,5,False,-0.045491
+TR33,"Manisa, Afyonkarahisar, Kütahya, Uşak",TR,38.8435,29.4491,44438.4,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.728036,1.53465e-09,True,0.240849,19,False,-1.26843
+TR63,"Hatay, Kahramanmaraş, Osmaniye",TR,37.459,36.6831,23155.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.637591,4.93448e-08,True,-0.338719,25,False,-2.04887
+TR41,"Bursa, Eskişehir, Bilecik",TR,39.8699,30.1803,29049.1,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.69362,1.54899e-10,True,0.0897784,21,False,-2.08323
+TR71,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",TR,38.7704,34.2202,31911.5,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",1.25674,9.29168e-12,True,-0.361093,25,False,-3.69025
+RO22,Sud-Est,RO,45.1238,27.8287,35742.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.717804,6.44544e-11,True,0.708849,12,False,-1.3025
+SE22,Sydsverige,SE,56.022,13.9315,14398.7,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.422138,0.000112,True,0.862541,8,False,0.0830323
+RO31,Sud-Muntenia,RO,44.6105,25.8882,34463.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.606299,3.21327e-08,True,1.08163,7,False,-0.485949
+RO32,Bucureşti-Ilfov,RO,44.5108,26.1389,1803.89,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.556039,3.17415e-07,True,1.17538,7,False,-0.19725
+SE33,Övre Norrland,SE,66.1928,19.2495,165149,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.442183,0.000370819,True,-0.0304539,21,False,-0.964168
+PT1C,Alentejo,PT,38.3883,-7.92179,27249,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.453657,2.03817e-05,True,1.55581,5,False,0.58962
+RO41,Sud-Vest Oltenia,RO,44.5951,23.6703,29209.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.695285,1.67094e-08,True,1.73011,4,False,0.16908
+PT1D,Oeste e Vale do Tejo,PT,39.2866,-8.64594,9204.31,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.428047,2.21801e-05,True,1.60345,4,False,0.556894
+RO42,Vest,RO,45.7172,21.9904,32033.9,1,1 Western-central Europe: record heat and drought,0.808918,3.4602e-09,True,2.3541,2,False,0.843745
+RS11,City of Belgrade,RS,44.6475,20.418,3234.12,1,1 Western-central Europe: record heat and drought,0.832788,6.12e-09,True,1.98835,3,False,0.446378
+SE23,Västsverige,SE,58.086,12.8375,34579.5,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.365178,0.000177267,True,0.810077,7,False,0.0642229
+SE32,Mellersta Norrland,SE,63.2025,15.1814,77160.6,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.365292,0.00120325,True,0.0151621,20,False,-0.678243
+RS12,Autonomous Province of Vojvodina,RS,45.3998,20.0817,21501.4,1,1 Western-central Europe: record heat and drought,0.798687,1.86497e-08,True,2.39483,2,False,0.859981
+SE11,Stockholm,SE,59.4684,18.1579,7057.71,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.367102,0.000749878,True,0.609679,11,False,-0.193396
+SE12,Östra Mellansverige,SE,59.2222,16.1167,43296.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.37215,0.000428058,True,0.815398,7,False,0.00261281
+SE21,Småland med öarna,SE,57.232,15.368,35985.8,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.374951,0.000699951,True,0.864447,8,False,0.0737074
+RO11,Nord-Vest,RO,47.2265,23.3453,34151.8,1,1 Western-central Europe: record heat and drought,0.75146,1.36806e-10,True,2.31241,2,False,0.67186
+RS21,Region Šumadije i Zapadne Srbije,RS,43.852,20.3234,26493.2,1,1 Western-central Europe: record heat and drought,0.773843,8.58065e-09,True,2.00707,3,False,0.440135
+SE31,Norra Mellansverige,SE,60.7317,14.5063,72011.2,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.296895,0.00260498,True,0.647016,9,False,0.070935
+RO12,Centru,RO,46.195,24.8042,34111.3,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.686635,8.29496e-11,True,1.59894,3,False,0.0424604
+RS22,Region Južne i Istočne Srbije,RS,43.5656,21.9278,26252.1,1,1 Western-central Europe: record heat and drought,0.784138,2.0808e-08,True,2.17604,4,False,0.597728
+RO21,Nord-Est,RO,47.0988,26.6915,36850.9,3,"3 North, east, Turkey, Atlantic fringe: moderate 2026",0.686846,8.49653e-10,True,1.06791,7,False,-0.732622
+XK00,Kosovo,XK,42.5811,20.8893,10907.5,1,1 Western-central Europe: record heat and drought,0.745759,3.21327e-08,True,1.91965,4,False,0.403665
